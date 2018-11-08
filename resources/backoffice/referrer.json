@@ -1,0 +1,18 @@
+{
+ "direct mail": {
+   "referrer": {
+     "source": "directmail",
+     "medium": "directmail",
+     "term": null,
+     "campaign": "print"
+   }
+ },
+  "quidco": {
+    "referrer": {
+      "source": "omg",
+      "medium": "affiliate",
+      "term": null,
+      "campaign": "quidco"
+    }
+  }
+}
